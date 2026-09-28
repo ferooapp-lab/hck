@@ -1,0 +1,6 @@
+{
+  "name": "SyncMate",
+  "description": "Uçtan uca şifreli sohbet, anlık canlı konum takibi, canlı ekran aktivitesi ve eş zamanlı ekran üzerine ortak çizim yapabilen güvenli bağlantı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
